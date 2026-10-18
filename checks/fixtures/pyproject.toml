@@ -1,0 +1,3 @@
+# Project marker for Ruff's LSP root detection and local formatting settings.
+[tool.ruff]
+line-length = 88

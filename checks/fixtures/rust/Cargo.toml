@@ -1,0 +1,5 @@
+# Dependency-free workspace for rust-analyzer completion and macro expansion.
+[package]
+name = "editor-fixture"
+version = "0.1.0"
+edition = "2021"
